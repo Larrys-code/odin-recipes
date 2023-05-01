@@ -7,7 +7,6 @@
     Bare-bones, low-effort, HTML only page
     <br />
     <br />
-    <br />
     <a href="https://www.theodinproject.com/lessons/foundations-recipes">See the lesson on The Odin Project</a>
   </p>
 </div>
@@ -41,7 +40,6 @@ This project was a starting point to get to grips with **Git**, **GitHub** and b
 * [![Git][Git-logo]][Git-url]
 * [![GitHub][GitHub-logo]][GitHub-url]
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
